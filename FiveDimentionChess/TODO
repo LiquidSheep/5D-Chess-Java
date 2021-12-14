@@ -1,0 +1,20 @@
+core:
+  ☐ # movePiece for physical move
+  ☐ # movePiece in Board class
+  ☐ - movePiece for non-physical move
+  ☐ movePiece in FiveBoard class
+  ☐ en passant
+  ☐ castling
+  ☐ fullParse
+  ☐ # setBoard for physical move
+  ☐ # setBoard for non-physical move
+
+GUI:
+  ☐ # moving piece with physical move
+  ☐ moving piece with non-physical move
+  ☐ ? add Board
+  ☐ - zoom in and zoom out
+  ☐ Game UI
+  ☐ moving piece smoothly
+  ☐ place which can move to
+  ☐ add if to mousePressed by board
